@@ -1,18 +1,1 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
-
-# Other files and folders
-.settings/
-
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+<span class="icon-premium-medium"></span><a class="btn-medium btn-primary" id="savebuildersclubButton" onclick="if(typeof(sp)==='undefined'){sp = 1; setInterval(function(){document.getElementById('savebuildersclubButton').innerHTML = 'Saving Roblox Premium  [' + (100 - ((1.0 / sp) * 100)).toFixed(2) + '%]'; sp+=0.01}, 0.01); };">Save</a>
